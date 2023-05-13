@@ -2,6 +2,7 @@ using Exo.WebApi.Contexts;
 using Exo.WebApi.Models;
 using System.Collections.Generic;
 using System.Linq;
+
 namespace Exo.WebApi.Repositories
 {
     public class UsuarioRepository
